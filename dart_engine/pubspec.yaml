@@ -1,0 +1,9 @@
+name: chinitsu_engine
+description: チンイツ（清一色）待ち判定エンジン - メンチン道場コアロジック
+version: 1.0.0
+
+environment:
+  sdk: ^3.0.0
+
+dev_dependencies:
+  test: ^1.24.0
